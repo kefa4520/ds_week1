@@ -3,8 +3,12 @@
 Multi-line comments are possible with triple quotes like this.
 """
 # import pandas and matplotlib
-___
-___
+# Load the pandas library as pd
+import pandas as pd
+# Load the matplotlib library as plt
+import matplotlib.pyplot as plt
+# load the numpy library as np (called "aliasing")
+import numpy as np 
 
 # This data comes from the UCI ML repository:
 # https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
